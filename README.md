@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://fcity.github.io/nft-preview-card-component)
+- Solution URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
 
 ## My process
 
