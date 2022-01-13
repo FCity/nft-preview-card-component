@@ -23,6 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
+- Live Site URL: [https://fcity.github.io/base-apparel-coming-soon](https://fcity.github.io/nft-preview-card-component)
 
 ## My process
 
