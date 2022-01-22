@@ -23,18 +23,18 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop
+Desktop:
 
 ![Desktop view](./images/screenshot-desktop.jpg?raw=true)
 
-Mobile
+Mobile:
 
 ![Mobile view](./images/screenshot-mobile.jpg?raw=true)
 
 ### Links
 
-- Solution URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
-- Live Site URL: [https://fcity.github.io/nft-preview-card-soon](https://fcity.github.io/nft-preview-card-component)
+- Solution URL: [https://fcity.github.io/nft-preview-card-component](https://github.com/FCity/nft-preview-card-component)
+- Live Site URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
 
 ## My process
 
