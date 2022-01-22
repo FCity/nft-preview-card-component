@@ -6,6 +6,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,10 +21,20 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+### Screenshots
+
+Desktop
+
+![Desktop view](./images/screenshot-desktop.jpg?raw=true)
+
+Mobile
+
+![Mobile view](./images/screenshot-mobile.jpg?raw=true)
+
 ### Links
 
 - Solution URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
-- Live Site URL: [https://fcity.github.io/base-apparel-coming-soon](https://fcity.github.io/nft-preview-card-component)
+- Live Site URL: [https://fcity.github.io/nft-preview-card-soon](https://fcity.github.io/nft-preview-card-component)
 
 ## My process
 
