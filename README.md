@@ -33,7 +33,7 @@ Mobile:
 
 ### Links
 
-- Solution URL: [https://fcity.github.io/nft-preview-card-component](https://github.com/FCity/nft-preview-card-component)
+- Solution URL: [https://github.com/FCity/nft-preview-card-component](https://github.com/FCity/nft-preview-card-component)
 - Live Site URL: [https://fcity.github.io/nft-preview-card-component](https://fcity.github.io/nft-preview-card-component)
 
 ## My process
